@@ -146,6 +146,4 @@ Before script generation, the system retrieves top matching style context from C
 - outputs/
 - config/
 
-## Screenshots
 
-- Placeholder: add screenshots here.
